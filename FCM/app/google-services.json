@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "745591427819",
+    "firebase_url": "https://com-coogle-fcm.firebaseio.com",
+    "project_id": "com-coogle-fcm",
+    "storage_bucket": "com-coogle-fcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745591427819:android:53c1df4b0733adf4e964ae",
+        "android_client_info": {
+          "package_name": "com.google.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745591427819-kb4dd5dn5fftb51fbd171f2e5dmeck3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEbBkRuKyIPyHZGGJ6YfHz8681E-dc3wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745591427819-kb4dd5dn5fftb51fbd171f2e5dmeck3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
